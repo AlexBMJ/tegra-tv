@@ -1,3 +1,3 @@
-FILESEXTRAPATHS:prepend:tegrademo  := "${THISDIR}/files:"
-SPLASH_IMAGES:tegrademo = "file://psplash-OE4T-img.h;outsuffix=default"
+FILESEXTRAPATHS:prepend:tegratv  := "${THISDIR}/files:"
+SPLASH_IMAGES:tegratv = "file://psplash-OE4T-img.h;outsuffix=default"
 
